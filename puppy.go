@@ -4,6 +4,6 @@ func Bark() string {
 	return "Woof"
 }
 
-func Banks() string {
+func Barks() string {
 	return "Woof! Woof!"
 }
